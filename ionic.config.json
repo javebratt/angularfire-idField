@@ -1,0 +1,7 @@
+{
+  "name": "angularfire-id",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
